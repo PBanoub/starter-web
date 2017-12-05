@@ -11,6 +11,6 @@
 leave review in stashing 
 
 # TECHNOLOGY COLOPHON
-
+ value value
     HTML5, CSS3
     jQuery, Modernizr
