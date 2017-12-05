@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 new comment in first section
+extra text in rebasing example
 
 ## Intro
  new intro comment idont know what will happen then :D
