@@ -12,5 +12,5 @@ new comment in first section
 
 comment for this phase of deployment
 ## How to Contribute
-
+ something new in master 
 copyright 2017 git test
