@@ -16,4 +16,4 @@ new changes from my feature branch too
 comment for this phase of deployment
 ## How to Contribute
  something new in master 
-copyright 2017 git test
+copyright 2017 all rights reserved
