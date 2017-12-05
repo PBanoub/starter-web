@@ -12,3 +12,5 @@ new comment in first section
 
 comment for this phase of deployment
 ## How to Contribute
+
+copyright 2017 git test
