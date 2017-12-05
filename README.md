@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 new comment in first section
-extra text in rebasing example
+extra text in rebasing example. updating for emergency fix after stashing
 
 new changes from my feature branch too
 
