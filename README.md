@@ -6,9 +6,9 @@ new comment in first section
 ## Intro
  new intro comment idont know what will happen then :D
 ## Purpose
-
-Sample website with plenty of files for demos
+ purpose text new what can i do
 
 ## Deployment 
 
+comment for this phase of deployment
 ## How to Contribute
