@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 new comment in first section
 extra text in rebasing example
 
+new changes from my feature branch too
+
 ## Intro
  new intro comment idont know what will happen then :D
 ## Purpose
